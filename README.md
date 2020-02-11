@@ -1,2 +1,2 @@
 # samples-dev
-遊び用
+検証用
